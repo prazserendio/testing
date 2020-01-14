@@ -1,0 +1,12 @@
+<people>
+	<person>
+		<id>4</id>
+		<name>John</name>
+		<city>AA</city>
+	</person>
+	<person>
+		<id>5</id>
+		<name>David</name>
+		<city>BB</city>
+	</person>
+</people>
